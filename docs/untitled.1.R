@@ -1,5 +1,6 @@
 project:
   title:"csu-ess-lab6"
+  author: "Tessa Davis"
   output-dir: docs
   type: website
 format:
